@@ -1,6 +1,6 @@
-Project Overview
+## Project Overview
 
-Instalation and Setup
+# Instalation and Setup
 
 Project Features
 
