@@ -1,9 +1,10 @@
-## Project Overview
+# Project Overview
+### Node.js MongoDB
+> Small Node.js project 
+## Instalation and Setup
 
-# Instalation and Setup
+## Project Features
 
-Project Features
+## Project Structure
 
-Project Structure
-
-Technologies Used
+## Technologies Used
