@@ -17,6 +17,10 @@ In your console, clone the repository by writing:
 ```bash
 git clone https://github.com/BenyoMano/node-starwars-api-MongoDB.git
 ```
+When finished, start the app by:
+````bash
+cd node-starwars-api-MongoDB && node app.js
+````
 
 ## Project Features
 ### List of Features: Enumerate the main features of your project with a brief description of each.
