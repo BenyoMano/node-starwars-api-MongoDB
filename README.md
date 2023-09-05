@@ -4,6 +4,8 @@
 Entering into the Star Wars Universe you now have the abillity to search for and select any character you want from the SWAPI-api and rank them, all by your liking. You can add, reorder and remove the characters however you want. 
 ## Installation and Setup
 ### Requirements: List the prerequisites and dependencies necessary to run the project.
+- Node.js
+- Git
 
 ### Installation: 
 Make sure you have the following software installed:
@@ -11,7 +13,7 @@ Make sure you have the following software installed:
 - [Node.js](https://nodejs.org/) (v14.0 or higher)
 - [Git](https://git-scm.com/)
 
-In your console, clone the repository:
+In your console, clone the repository by writing:
 ```bash
 git clone https://github.com/BenyoMano/node-starwars-api-MongoDB.git
 ```
