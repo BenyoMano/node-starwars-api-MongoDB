@@ -3,14 +3,13 @@
 ### Description: 
 Entering into the Star Wars Universe you now have the abillity to search for and select any character you want from the SWAPI-api and rank them, all by your liking. You can add, reorder and remove the characters however you want. 
 ## Installation and Setup
-### Requirements: List the prerequisites and dependencies necessary to run the project.
-- Node.js
-- Git
+### Requirements:
+Requires no dependencies.
 
 ### Installation: 
 Make sure you have the following software installed:
 
-- [Node.js](https://nodejs.org/) (v14.0 or higher)
+- [Node.js](https://nodejs.org/)
 - [Git](https://git-scm.com/)
 
 In your console, clone the repository by writing:
@@ -23,9 +22,18 @@ cd node-starwars-api-MongoDB && node app.js
 ````
 
 ## Project Features
-### List of Features: Enumerate the main features of your project with a brief description of each.
+### List of Features: 
+Enumerate the main features of your project with a brief description of each.
+1. Add any, one or several characters to your ranked list.
+2. Swap them to rearrange the order.
+3. Remove one or all characters.
+4. Watch and enjoy your ranked list of characters.
 
-### Usage Examples: Include code snippets or usage examples for each feature (if applicable).
+### Usage Examples:
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image.png)
 
 ## Project Structure
 ### Directory Structure: Describe the organization of your project's files and directories.
@@ -33,5 +41,7 @@ cd node-starwars-api-MongoDB && node app.js
 ### Key Files: Mention the most important files and their roles in the project.
 
 ## Technologies Used
-### Languages: Specify the programming languages used in the project.
+**Server:** Node.js [v20.2.5]
+
+**Database:** MongoDB 
 ### Frameworks/Libraries: List any significant frameworks or libraries used.

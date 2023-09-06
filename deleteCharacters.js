@@ -7,7 +7,7 @@ async function deleteCharacter(rl, menu) {
     }
 
     await require("./mongoSee")().seeData('summary');
-    rl.question("Which character do you want to delete? ", async function(del) {
+    rl.question("Which character do you want to delete? (# or (A) for all) ", async function(del) {
         if (del == 'a') {
            await removeItem(del, 'all');
         } else {
