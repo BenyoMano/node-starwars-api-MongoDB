@@ -20,7 +20,6 @@ When finished, start the app by:
 ````bash
 cd node-starwars-api-MongoDB && node app.js
 ````
-
 ## Project Features
 ### List of Features: 
 Enumerate the main features of your project with a brief description of each.
@@ -28,20 +27,12 @@ Enumerate the main features of your project with a brief description of each.
 2. Swap them to rearrange the order.
 3. Remove one or all characters.
 4. Watch and enjoy your ranked list of characters.
-
 ### Usage Examples:
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 ![Alt text](image.png)
-
-## Project Structure
-### Directory Structure: Describe the organization of your project's files and directories.
-
-### Key Files: Mention the most important files and their roles in the project.
-
 ## Technologies Used
-**Server:** Node.js [v20.2.5]
+**Server:** Node.js v20.2.5
 
 **Database:** MongoDB 
-### Frameworks/Libraries: List any significant frameworks or libraries used.
