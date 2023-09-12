@@ -23,7 +23,6 @@ cd node-starwars-api-MongoDB && node app.js
 ````
 ## Project Features
 ### List of Features: 
-Enumerate the main features of your project with a brief description of each.
 - Add any, one or several characters to your ranked list.
 - Swap them to rearrange the order.
 - Remove one or all characters.
