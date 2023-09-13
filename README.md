@@ -7,7 +7,6 @@
 ## Description: 
 Entering into the Star Wars Universe you now have the abillity to search for and select any character you want from the SWAPI-api and rank them, all by your liking. You can add, reorder and remove the characters however you want. 
 ## Installation and Setup
-### Installation: 
 Make sure you have the following software installed:
 
 - [Node.js](https://nodejs.org/) (version 18 or higher)
@@ -22,7 +21,7 @@ When finished, start the app by:
 cd node-starwars-api-MongoDB && node app.js
 ````
 ## Project Features
-### List of Features: 
+### Features: 
 - Add any, one or several characters to your ranked list.
 - Swap them to rearrange the order.
 - Remove one or all characters.
